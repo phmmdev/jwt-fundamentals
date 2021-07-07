@@ -42,3 +42,9 @@ A seguir estão os processos de geração dessas duas partes (Header e Body)
 ### Visão geral
 
 ![diagrama geração](https://github.com/phmmdev/jwt-fundamentals/blob/main/body-generation-process.png)
+
+## Geração Assinatura JWS
+
+### Visão geral
+
+![diagrama geração](https://github.com/phmmdev/jwt-fundamentals/blob/main/signature-generation-process.png)
