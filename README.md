@@ -104,7 +104,7 @@ Para que seja possivel gerar um JWE e utilizá-lo em uma comunicação os seguin
 
 ## JWK
 
-Consiste na representação da chave de criptografia. Tal estrtrutura depende esclusivamente de qual **Algorimo** (JWA) será utilizado, fazendo com que o numero de porametros contidos nela venha a variar
+Consiste na representação da chave de criptografia. Tal estrtrutura depende exclusivamente de qual **Algorimo** (JWA) será utilizado, fazendo com que o numero de porametros contidos nela venha a variar
 
 ### Exemplo JWK RSA
 
